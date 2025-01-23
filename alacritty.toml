@@ -1,0 +1,46 @@
+# Font settings
+[font]
+normal = { family = "FiraCode Nerd Font Mono", style = "Regular" }
+bold = { family = "FiraCode Nerd Font Mono", style = "Bold" }
+italic = { family = "FiraCode Nerd Font Mono", style = "Italic" }
+size = 12.0
+
+# Colors configuration for the Dracula
+[colors]
+primary.background = "#282a36"
+primary.foreground = "#f8f8f2"
+
+# Normal colors
+normal.black = "#21222c"
+normal.red = "#ff5555"
+normal.green = "#50fa7b"
+normal.yellow = "#f1fa8c"
+normal.blue = "#bd93f9"
+normal.magenta = "#ff79c6"
+normal.cyan = "#8be9fd"
+normal.white = "#bfbfbf"
+
+# Bright colors
+bright.black = "#4d4d4d"
+bright.red = "#ff6e6e"
+bright.green = "#69ff94"
+bright.yellow = "#ffffa5"
+bright.blue = "#d6acff"
+bright.magenta = "#ff92d0"
+bright.cyan = "#a4ffff"
+bright.white = "#e6e6e6"
+
+# Cursor colors
+cursor.background = "#ffb86c"
+cursor.foreground = "#282a36"
+
+# Selection colors
+selection.background = "#ffb86c"
+selection.foreground = "#282a36"
+
+# Vi mode cursor
+vi_mode_cursor.background = "#ffb86c"
+vi_mode_cursor.foreground = "#282a36"
+
+[shell]
+program = "/usr/bin/zsh"
