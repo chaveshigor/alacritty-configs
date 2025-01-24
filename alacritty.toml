@@ -42,5 +42,7 @@ selection.foreground = "#282a36"
 vi_mode_cursor.background = "#ffb86c"
 vi_mode_cursor.foreground = "#282a36"
 
-[shell]
+[terminal]
+
+[terminal.shell]
 program = "/usr/bin/zsh"
